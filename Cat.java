@@ -17,7 +17,7 @@ public class Cat extends Animal
     public Cat()
     {
         // initialise instance variables
-        x = 10000;
+        x = 10000 + 100;
     }
 
     /**
