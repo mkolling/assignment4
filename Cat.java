@@ -9,7 +9,7 @@ public class Cat extends Animal
 {
     // instance variables - replace the example below with your own
     private int x;
-    private String name;
+    private String na;
 
     /**
      * Constructor for objects of class Cat
